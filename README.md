@@ -1,2 +1,2 @@
 # Desktop_File_Organizer
-This is a python project that organizes different kinds of files in the desktop of the user into seperate directories. It also gives how many files of a specific file type the desktop includes.
+This is a python project that organizes different kinds of files (.py, .java, .txt, .pdf, .tar, .sql .......) in the desktop of the user into seperate directories. It also gives how many files of a specific file type the desktop includes. This is a good project for increasing productivity and making working environment in the computer more organized. This can certainly be extended to a more useful and larger scale file desktop management system for organizations.
